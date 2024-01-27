@@ -45,6 +45,6 @@ Innovative, self-starting Tech Professional with three plus years of experience 
 
 ### Personal Projects
 
-- [React TV Show Advisor App](https://d3p0napl0gv144.cloudfront.net/ "TV Show Advisor")
+- [TV Show Advisor](https://d3p0napl0gv144.cloudfront.net/ "TV Show Advisor")
 
-- [React Random Quote Generator](https://d19w2763dyyv1e.cloudfront.net/ "Random Quotes")
+- [Random Quote Generator](https://d19w2763dyyv1e.cloudfront.net/ "Random Quotes")
