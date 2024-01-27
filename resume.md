@@ -1,22 +1,22 @@
-# Payne Warren
+## Full-Stack JavaScript Developer
 
-Email: [opaloctopus1005@gmail.com](mailto:opaloctopus1005@gmail.com) | Website: []() | LinkedIn: [www.linkedin.com/in/payne-a-warren](www.linkedin.com/in/payne-a-warren)
-
----
-
-## Skills
-
-> **_HTML_** - **_CSS_** - **_JavaScript_** - **_Typescript_** - **_jQuery_** - **_React_** - **_Git_** - **_Github_** - **_JIRA_** - **_Postman_** - **_Bash_**
+Email: [opaloctopus1005@gmail.com](mailto:opaloctopus1005@gmail.com) | Website: [https://paynewarren.github.io](https://paynewarren.github.io/) | LinkedIn: [www.linkedin.com/in/payne-a-warren](www.linkedin.com/in/payne-a-warren)
 
 ---
 
-## Summary
+### Skills
+
+> **_HTML_** - **_CSS_** - **_SCSS_** - **_JavaScript_** - **_TypeScript_** - **_jQuery_** - **_React_** - **_Git_** - **_Github_** - **_JIRA_** - **_Postman_** - **_Bash_**
+
+---
+
+### Summary
 
 Innovative, self-starting Tech Professional with three plus years of experience in Javascript programming within the Financial Services and Banking Industries. Proven strengths in agile production, compliance, monitoring, design, and relationship management. Recognized by leadership for adaptability and flexibility, known for being able to quickly shift priorities in order to meet business needs. Seeking to obtain full-time employment in a cyber security-related or development role that utilizes my front-end development, communication, and collaboration skills.
 
 ---
 
-## Experience
+### Experience
 
 - **Fraud Team Leader** (Feb 2022 - Present)
 
@@ -37,6 +37,8 @@ Innovative, self-starting Tech Professional with three plus years of experience 
 
 ---
 
-## Education
+### Education
 
 - Associate of Science - AS, Kinesiology & Exercise Science, Delaware Technical Community College (2014 - 2016)
+
+---
