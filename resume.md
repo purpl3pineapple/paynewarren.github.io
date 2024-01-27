@@ -42,3 +42,9 @@ Innovative, self-starting Tech Professional with three plus years of experience 
 - Associate of Science - AS, Kinesiology & Exercise Science, Delaware Technical Community College (2014 - 2016)
 
 ---
+
+### Personal Projects
+
+- [React TV Show Advisor App](https://d3p0napl0gv144.cloudfront.net/ "TV Show Advisor")
+
+- [React Random Quote Generator](https://d19w2763dyyv1e.cloudfront.net/ "Random Quotes")
