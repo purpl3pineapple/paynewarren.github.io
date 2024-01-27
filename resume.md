@@ -6,7 +6,7 @@ Email: [opaloctopus1005@gmail.com](mailto:opaloctopus1005@gmail.com) | Website: 
 
 ### Skills
 
-> **_HTML_** - **_CSS_** - **_SCSS_** - **_JavaScript_** - **_TypeScript_** - **_jQuery_** - **_React_** - **_Git_** - **_Github_** - **_JIRA_** - **_Postman_** - **_Bash_**
+> **_HTML_** - **_CSS_** - **_SCSS_** - **_Bootstrap_** - **_JavaScript_** - **_TypeScript_** - **_jQuery_** - **_React_** - **_Git_** - **_Github_** - **_JIRA_** - **_Postman_** - **_Bash_** - **_AWS_**
 
 ---
 
